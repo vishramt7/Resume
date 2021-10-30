@@ -1,5 +1,3 @@
-CV
-
 Hi, I am Vishram L. Terse
 
 You can reach on +91-9611346057 or email me at vishramt7@gmail.com
