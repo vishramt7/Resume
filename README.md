@@ -1,2 +1,2 @@
 # CV
-# Hi, I am Vishram L. Terse
+Hi, I am Vishram L. Terse
