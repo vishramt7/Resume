@@ -1,4 +1,4 @@
-
+#
 ## Projects
 
 - **PhD Thesis:** "Understanding protein folding and domain swapping using structure based model MD simulations." **PI:** Dr. Shachi Gosavi
