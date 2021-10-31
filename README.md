@@ -1,4 +1,3 @@
-
 Hi
 ## Technical skills
 
@@ -11,7 +10,8 @@ Hi
 - Experienced in Unix based environments (Fedora/CenOS/Ubuntu).
 - Familiar with text editors (vim and VS Code) and Git for version control.
 - Visualization software: vmd and pymol
-- Can use Adobe illustrator to make publication quality images.
+- Can use Adobe illustrator and GIMP to make publication quality images.
+
 
 ## Publications
 
@@ -21,14 +21,23 @@ Hi
 - Das, A.; Yadav, A.; Gupta, M.; Purushotham, R.; **Terse, V. L.**; Vishvakarma, V.; Singh, S.; Nandi, T.; Mandal, K.; Gosavi, S.; et al. Rational Design of Protein-Specific Folding Modifiers. *bioRxiv* **2020**, 2020.04.28.064113.
 
 
+## Conferences
+
+- Attended and presented poster at EMBO protein-protein interaction workshop and EMBO IDP conference (2019).
+- Attended and presented poster at International protein folding conference (2014 and 2016).
+- Member of Protein Journal club at NCBS. Its activities include presenting and discussing recent papers related to protein structure, function, folding and design.
+- Represented Mumbai University at Inter University Research Festival, Avishkar-2011.
+- Attended Graduate Student’s Meet-2011 organised by ACTREC.
+
+
 ## Projects
 
 - **PhD Thesis:** "Understanding protein folding and domain swapping using structure based model MD simulations." **PI:** Dr. Shachi Gosavi
 
 - **PhD projects:** 
-  1. Intrinsic disorder in well-folded globular proteins.
-  2. The sensitivity of computational protein folding to contact map perturbations: The case of ubiquitin folding and function.
-  3. Investigating the cause of domain swapping in the C-terminal domain of main protease (MproC) from SARS-CoV.
+  1. Intrinsic disorder in well-folded globular proteins.<br/>
+  2. The sensitivity of computational protein folding to contact map perturbations: The case of ubiquitin folding and function.<br/>
+  3. Investigating the cause of domain swapping in the C-terminal domain of main protease (MproC) from SARS-CoV.<br/>
   4. Understanding the domain swapping mechanism in mutant protein G and its application in designing a novel domain swapped dimer (unpublished).
 \
 &nbsp;
