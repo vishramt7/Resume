@@ -3,6 +3,8 @@
   <img src="https://github.com/vishramt7/Resume/blob/d3d191a4422ff2da07ac2a0eab6402e6b8d9a730/image/IMG_20210917_112949.jpg" width=25% height=25%>
 </p>
 
+<img src="https://github.com/vishramt7/Resume/blob/main/image/IMG_20210917_112949.jpg" width=25% height=25%>
+
 ## Technical skills
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
