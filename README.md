@@ -17,10 +17,14 @@
 
 ## Personal details
 
-- **Sex:** Male, &nbsp;  **Date of birth:** 07<sup>th</sup> January, 1991., &nbsp; **Nationality:** Indian
+- | **Sex:** Male, &nbsp;  | **Date of birth:** 07<sup>th</sup> January, 1991., &nbsp; | **Nationality:** Indian |
 
 - **Phone:** +91-9611346057 &nbsp; **Email:** vishramt7@gmail.com
 
 - **[LinkedIn](https://www.linkedin.com/in/vishram-terse-a7b83a3b/)**
 
-- **Address:** 701, Samoa bld, Pacific Enclave, Powai, Mumbai, Maharashtra - 400076, India
+- **Address:** 701, Samoa bld, Pacific Enclave, Powai, Mumbai, Maharashtra - 400076, India<br/>
+| Heading 1 | Heading 2 | Heading 3 |  
+|-----------|:-----------:|-----------:|  
+| Cell A1 | Cell A2 | Cell A3 |  
+| Cell B1 | Cell B2 | Cell B3<br/>second line of text |
