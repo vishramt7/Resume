@@ -2,7 +2,7 @@
 
 ## Personal details
 
-- **Sex:** Male &nbsp; **Date of birth:** 07<sup>th</sup> January, 1991 &nbsp;&nbsp; **Nationality:** Indian
+- **Sex:** Male &nbsp;  **Date of birth:** 07<sup>th</sup> January, 1991 &nbsp; **Nationality:** Indian
 
 - **Phone:** +91-9611346057     **Email:** vishramt7@gmail.com
 
