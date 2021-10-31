@@ -1,4 +1,4 @@
-Hi
+![cv_pic](./image/IMG_20210917_112949.jpg)
 ## Technical skills
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
