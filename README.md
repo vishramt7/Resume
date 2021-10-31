@@ -1,4 +1,7 @@
-![cv_pic](./image/IMG_20210917_112949.jpg)
+<p align="left">
+  <img src="./image/IMG_20210917_112949.jpg" width=25% height=25%>
+</p>
+
 ## Technical skills
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
