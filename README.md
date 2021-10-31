@@ -35,9 +35,12 @@ Hi
 - **PhD Thesis:** "Understanding protein folding and domain swapping using structure based model MD simulations." **PI:** Dr. Shachi Gosavi
 
 - **PhD projects:** 
-  1. Intrinsic disorder in well-folded globular proteins.<br/>
-  2. The sensitivity of computational protein folding to contact map perturbations: The case of ubiquitin folding and function.<br/>
-  3. Investigating the cause of domain swapping in the C-terminal domain of main protease (MproC) from SARS-CoV.<br/>
+  1. Intrinsic disorder in well-folded globular proteins.
+  <br/>
+  2. The sensitivity of computational protein folding to contact map perturbations: The case of ubiquitin folding and function.
+  <br/>
+  3. Investigating the cause of domain swapping in the C-terminal domain of main protease (MproC) from SARS-CoV.
+  <br/>
   4. Understanding the domain swapping mechanism in mutant protein G and its application in designing a novel domain swapped dimer (unpublished).
 \
 &nbsp;
