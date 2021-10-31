@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="image/IMG_20210917_112949.jpg" width=25% height=25%>
+  <img src="./image/IMG_20210917_112949.jpg" width=25% height=25%>
 </p>
 
 ## Technical skills
