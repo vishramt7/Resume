@@ -4,8 +4,8 @@
 - **PhD projects:** 
   1. Intrinsic disorder in well-folded globular proteins (published).
   2. The sensitivity of computational protein folding to contact map perturbations: The case of ubiquitin folding and function (published).
-  3: Investigating the cause of domain swapping in the C-terminal domain of main protease (MproC) from SARS-CoV (published).
-  4: Understanding the domain swapping mechanism in mutant protein G and its application in designing a novel domain swapped dimer.
+  3. Investigating the cause of domain swapping in the C-terminal domain of main protease (MproC) from SARS-CoV (published).
+  4. Understanding the domain swapping mechanism in mutant protein G and its application in designing a novel domain swapped dimer.
 - **M.Sc. Project:** "Functional annotation of putative glycosyltrasferases from Mycobacterium tuberculosis [computational project]", IIT Bombay. **Guide:** Prof. P. V. Balaji.
 - **Summer internships:** 3 consecutive summer internships (2009-2011) under POBE programme at JNCASR, Bangalore which include lectures, lab training and two cell biology related projects.
 
