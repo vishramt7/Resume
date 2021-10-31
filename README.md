@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/vishramt7/Resume/tree/main/image/IMG_20210917_112949.jpg" width=25% height=25%>
+  <img src="https://github.com/vishramt7/Resume/blob/792bcfbe6df9b113ec9f7f7ca09d548670926f64/image/IMG_20210917_112949.jpg" width=25% height=25%>
 </p>
 
 ## Technical skills
