@@ -1,5 +1,5 @@
-<img src="./image/scaled.jpg" width=25% height=25%>
-<img src="https://github.com/vishramt7/Resume/blob/main/image/scaled.jpg" width=25% height=25%>
+<img src="https://github.com/vishramt7/Resume/blob/29b7e9760a0595ed11efe582f7d00d5006b50c39/image/scaled.jpg" width=25% height=25%>
+<img src="https://github.com/vishramt7/Resume/tree/main/image/scaled.jpg" width=25% height=25%>
 
 ## Technical skills
 
