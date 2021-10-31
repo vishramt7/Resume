@@ -2,15 +2,24 @@ Hi
 ## Technical skills
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
+
 - Analysis of simulation trajectories using contact maps to understand how proteins fold.
+
 - Identifying structural features and functional regions of proteins using a theoretical construct called folding motif
+
 - Setting up bioinformatics pipeline for ligand screening using AutoDock.
+
 - Programming languages: perl, shell, C, python, MATLAB , R and SQL.
+
 - Familiar with pbs for cluster job submission.
+
 - Experienced in Unix based environments (Fedora/CenOS/Ubuntu).
+
 - Familiar with text editors (vim and VS Code) and Git for version control.
-- Visualization software: vmd and pymol
-- Can use Adobe illustrator and GIMP to make publication quality images.
+
+- Visualization softwares: vmd and pymol
+
+- Adobe illustrator and GIMP for publication quality images.
 
 
 ## Publications
