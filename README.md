@@ -13,9 +13,8 @@ Hi
 - Can use Adobe illustrator and GIMP to make publication quality images.
 
 
-<div align="center">
 ## Publications
-
+<div style="text-align: justify">
 - **Terse, V. L.**; Gosavi, S. The Sensitivity of Computational Protein Folding to Contact Map Perturbations: The Case of Ubiquitin Folding and Function. *J. Phys. Chem. B* **2018**, 122 (49), 11497–11507.
 - **Terse, V. L.**; Gosavi, S. The molecular mechanism of domain-swapping of the C-terminal domain of the SARS coronavirus main protease. *Biophysical Journal* **2021**, 120 (3), 504-516.
 - Mascarenhas, N. M.; **Terse, V. L.**; Gosavi, S. Intrinsic Disorder in a Well-Folded Globular Protein. *J. Phys. Chem. B* **2018**, 122 (6), 1876–1884.
@@ -24,11 +23,11 @@ Hi
 
 ## Conferences
 
-- Attended and presented poster at EMBO protein-protein interaction workshop and EMBO IDP conference (2019).
-- Attended and presented poster at International protein folding conference (2014 and 2016).
-- Member of Protein Journal club at NCBS. Its activities include presenting and discussing recent papers related to protein structure, function, folding and design.
-- Represented Mumbai University at Inter University Research Festival, Avishkar-2011.
-- Attended Graduate Student’s Meet-2011 organised by ACTREC.
+- Attended and presented poster at EMBO protein-protein interaction workshop and EMBO IDP conference (2019).<br/> 
+- Attended and presented poster at International protein folding conference (2014 and 2016).<br/> 
+- Member of Protein Journal club at NCBS. Its activities include presenting and discussing recent papers related to protein structure, function, folding and design.<br/>  
+- Represented Mumbai University at Inter University Research Festival, Avishkar-2011.<br/>  
+- Attended Graduate Student’s Meet-2011 organised by ACTREC.<br/>  
 
 
 ## Projects
