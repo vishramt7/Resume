@@ -1,5 +1,9 @@
+#removing buttons
 
+## Personal details
 
-You can reach on +91-9611346057 or email me at vishramt7@gmail.com
+**Sex:** Male  **Date of birth:** 07th January, 1991  **Nationality:** Indian
+
+**Phone:** +91-9611346057 **Email:** vishramt7@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/vishram-terse-a7b83a3b/)
