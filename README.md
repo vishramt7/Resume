@@ -2,8 +2,9 @@
 <img src="https://github.com/vishramt7/Resume/tree/main/image/scaled.jpg" width=25% height=25%>
 
 ## Technical skills
+![cv_pic](./image/scaled.jpg)
 
-![octocat](./image/create-octocat.png)
+![octocat](./image/create-octocat.png) {:height="36px" width="36px"}.
 
 <a href="url"><img src="https://github.com/vishramt7/Resume/blob/099bea3ad47b1e7c4fa280ee4101f4291b29c741/image/create-octocat.png" width=25% height=25%></a>
 
