@@ -23,12 +23,16 @@ Hi
 
 ## Conferences
 
-- Attended and presented poster at EMBO protein-protein interaction workshop and EMBO IDP conference (2019).<br/> 
-- Attended and presented poster at International protein folding conference (2014 and 2016).<br/> 
-- Member of Protein Journal club at NCBS. Its activities include presenting and discussing recent papers related to protein structure, function, folding and design.<br/>  
-- Represented Mumbai University at Inter University Research Festival, Avishkar-2011.<br/>  
-- Attended Graduate Student’s Meet-2011 organised by ACTREC.<br/>  
-
+- Attended and presented poster at EMBO protein-protein interaction workshop and EMBO IDP conference (2019).
+  <br/> 
+- Attended and presented poster at International protein folding conference (2014 and 2016).
+  <br/> 
+- Member of Protein Journal club at NCBS. Its activities include presenting and discussing recent papers related to protein structure, function, folding and design.
+  <br/>  
+- Represented Mumbai University at Inter University Research Festival, Avishkar-2011.
+  <br/>  
+- Attended Graduate Student’s Meet-2011 organised by ACTREC.
+  
 
 ## Projects
 
