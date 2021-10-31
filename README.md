@@ -10,7 +10,6 @@
   4. Understanding the domain swapping mechanism in mutant protein G and its application in designing a novel domain swapped dimer.
 \
 &nbsp;
-  
 - **M.Sc. Project:** "Functional annotation of putative glycosyltrasferases from Mycobacterium tuberculosis [computational project]", IIT Bombay. **Guide:** Prof. P. V. Balaji
 
 - **Summer internships:** 3 consecutive summer internships (2009-2011) under POBE programme at JNCASR, Bangalore which include lectures, lab training and two cell biology related projects.
