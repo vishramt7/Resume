@@ -3,6 +3,8 @@
 
 ## Technical skills
 
+<img src="./image/pancard.png" width=25% height=25%>
+
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
 
 - Analysis of simulation trajectories using contact maps to understand how proteins fold.
