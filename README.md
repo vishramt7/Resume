@@ -4,7 +4,7 @@
 ## Technical skills
 
 ![octocat](./image/create-octocat.png)
-<img src="./image/create-octocat.png" width=25% height=25%>
+<img src="/Resume/image/create-octocat.png" width=25% height=25%>
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
 
