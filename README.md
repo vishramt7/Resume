@@ -11,6 +11,7 @@
   </ul>
   </div>
 </p>
+<p align="center">My expertise and experience is listed below</p>
 
 ## Technical skills
 
