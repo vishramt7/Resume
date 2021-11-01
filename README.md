@@ -1,4 +1,3 @@
-
 <img align="left" src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%" />
 <p align="center">Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I</p>
 <p>
@@ -11,7 +10,7 @@
   </ul>
   </div>
 </p>
-<p align="center">My expertise and experience is listed below</p>
+My expertise and experience is listed below
 
 ## Technical skills
 
