@@ -1,9 +1,9 @@
-<link href="style.css" rel="stylesheet">
+
 
 <img align="left" src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%" />
   Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I
 
-
+<link href="style.css" rel="stylesheet">
 <p>
   <h2 align="center">Education and training </h2><br>
   <div align="center">
@@ -14,7 +14,7 @@
   </ul>
   </div>
 </p>
-
+</link>
 
 
 ## Technical skills
