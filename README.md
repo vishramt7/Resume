@@ -1,18 +1,17 @@
 
 <img align="left" src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%" />
-  Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I
+<p align="center">Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I</p>
 
 <p>
   <h2 align="center">Education and training </h2><br>
-  <div align="center">
-  <ul> 
+  <div>
+  <ul style="display: inline-block; background: crimson; text-align: center;"> 
     <li>PhD in Biology(computational). NCBS, Bangalore (India).</li><br>
     <li>MSc Biotechnology. IIT Bombay, Mumbai (India).</li><br>
     <li>BSc Biotechnology. KET's V. G. Vaze college, Mulund, Mumbai (India).</li><br>
   </ul>
   </div>
 </p>
-
 
 
 ## Technical skills
