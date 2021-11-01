@@ -34,6 +34,14 @@ My expertise and experience is listed below
 
 - Adobe illustrator and GIMP for publication quality images.
 
+## Organisational/Managerial skills
+
+- Volunteer at the EMBO protein protein interaction workshop (2019).
+
+- Generations 2011, BSBE, IIT Bombay (Jan’12). Contributed to the organization of National level Biotechnology Festival organized by Symbiotek, Bioschool Association, IIT Bombay.
+ 
+- Was a member of centre for talent search to train students for national talent search exam during BSc
+
 
 ## Publications
 
