@@ -6,7 +6,7 @@
 
 ![octocat](./image/create-octocat.png)
 
-<img src="./image/create-octocat.png" width=25% height=25%>
+<img src="./image/create-octocat.PNG" width=25% height=25%>
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
 
