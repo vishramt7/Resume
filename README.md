@@ -4,9 +4,9 @@
 ## Technical skills
 ![cv_pic](./image/scaled.jpg)
 
-![octocat](./image/create-octocat.png) {:height="36px" width="36px"}.
+![octocat](./image/create-octocat.png)
 
-<img src="https://vishramt7.github.io/Resume/image/scaled.jpg" width=25% height=25%>
+<img src="./image/create-octocat.png" width=25% height=25%>
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
 
