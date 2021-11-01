@@ -6,7 +6,7 @@
   <ul style="display: inline-block; text-align: center; list-style-position: inside;"> 
     <li>PhD in Biology(computational). NCBS, Bangalore (India).</li><br>
     <li>MSc Biotechnology. IIT Bombay, Mumbai (India).</li><br>
-    <li>BSc Biotechnology. KET's V. G. Vaze college, Mulund, Mumbai (India).</li><br>
+    <li>BSc Biotechnology. KET's V. G. Vaze college, Mulund, Mumbai (India).</li>
   </ul>
   </div>
 </p>
