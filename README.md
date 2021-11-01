@@ -6,7 +6,9 @@
 
 ![octocat](https://raw.githubusercontent.com/vishramt7/Resume/main/image/create-octocat.png)
 
+
 <img src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/create-octocat.png" width=25% height=25%>
+
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
 
