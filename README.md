@@ -7,7 +7,7 @@
     <li>PhD in Biology(computational). NCBS, Bangalore (India).</li><br>
     <li>MSc Biotechnology. IIT Bombay, Mumbai (India).</li><br>
     <li>BSc Biotechnology. KET's V. G. Vaze college, Mulund, Mumbai (India).</li><br>
-  <ul>
+  </ul>
 </p>
 
 
