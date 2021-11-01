@@ -1,10 +1,9 @@
 Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I
 
-<a href="image/scaled.jpg"> <img src="/image/scaled.jpg" width=25%  height=25%/></a>
+ <a href="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg"><img src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%"/></a>
+
 ## Technical skills
 
- <a href="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg"><img src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width=25%  height=25%/></a>
- 
  <a href="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg"><img src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%"/></a>
 
 - MD simulations (coarse grained and atomistic) using GROMACS and their analysis.
