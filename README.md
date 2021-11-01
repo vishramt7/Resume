@@ -1,6 +1,5 @@
-Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I
 
- <a href="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg"><img src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%"/></a>
+ <a href="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg"><img src="https://raw.githubusercontent.com/vishramt7/Resume/main/image/scaled.jpg" width="25%" height="25%"/></a>Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I
 
 ## Technical skills
 
@@ -74,5 +73,3 @@ Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., 
 - **Phone:** +91-9611346057 &nbsp; **Email:** vishramt7@gmail.com
 
 - **[LinkedIn](https://www.linkedin.com/in/vishram-terse-a7b83a3b/)**
-
-- **Address:** 701, Samoa bld, Pacific Enclave, Powai, Mumbai, Maharashtra - 400076, India 
