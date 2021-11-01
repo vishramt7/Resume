@@ -10,7 +10,6 @@
   </ul>
   </div>
 </p>
-
 My expertise and experience is listed below
 
 ## Technical skills
