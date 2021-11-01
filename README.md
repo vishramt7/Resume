@@ -4,7 +4,7 @@
 ## Technical skills
 ![cv_pic](./image/scaled.jpg)
 
-![octocat](https://raw.githubusercontent.com/vishramt7/Resume/main/image/create-octocat.png)
+![octocat](https://raw.githubusercontent.com/vishramt7/Resume/main/image/create-octocat.png=250x)
 
 
 <img src="https://github.com/vishramt7/Resume/blob/main/image/create-octocat.png" width=25% height=25%>
