@@ -1,6 +1,8 @@
 Hi, I am Vishram L. Terse and I am currently employed with MedGenome Labs Ltd., India as Bioinformatics Scientist I
 ![cv_pic](./image/scaled.jpg)
 
+<a href="https://github.com/vishramt7/Resume/blob/main/image/create-octocat.png"><img src="https://github.com/vishramt7/Resume/blob/main/image/create-octocat.png" width="100" height="100"/></a>
+
 <img src="https://github.com/vishramt7/Resume/blob/main/image/create-octocat.png" width=25% height=25%>
 
 ## Technical skills
